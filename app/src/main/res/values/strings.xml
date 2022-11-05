@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">FitHub</string>
+    <string name="profile">FitHub</string>
+    <string name="FitHub">FitHub</string>
+    <string name="Workout">Workout</string>
+    <string name="Dietplan">Dietplan</string>
+    <string name="Tracker">Tracker</string>
+    <string name="Instructor">Instructor</string>
+    <string name="Home">home</string>
+    <string name="Profile">profile</string>
+    <string name="Remainder">remainder</string>
+    <string name="recipename">recipename</string>
+    <string name="RecipeName">RecipeName</string>
+    <string name="Ingredients">Ingredients</string>
+    <string name="Intermediate">Intermediate</string>
+    <string name="Advanced">Advanced</string>
+    <string name="description_txt"><i>Fithub is an application which helps the user to attain a healthy life By offering a variety of features.
+        The Fithub application will contain Four main sections.
+        The first section, known as  Workout And Training, will have  Exercises and Workout plans.
+        The Exercises feature will offer information about various exercises through pictures, and Videos.
+        The second section, known as Diet and Nutrition, will contain a BMI calculator, and Diet Plan.Body Mass Index(BMI) measures the body fat based on the height ,weight that applies to adult men and women, and various diet plans depending on users choice.
+        In the third section the users can contact qualified trainers via chat or call.
+        The final section of the app, known as Progress Tracking, includes Water Intake,Step Counter.
+        Water Intake feature to calculate how much water your body needs every day, log your intake, and remind you to stay on track, a Step Counter to detect vertical movement at the hip and to measure the number of steps and provide an estimate of distance walked.
+        Through this user-friendly application, users can know about various diet plans and workout plans and thus improve their daily lifestyle.</i></string>
+
+    <string name="pose1">    Step 1:- Start in the push-up position with your arms completely straight and directly beneath your shoulders.\n\n
+                             Step 2:- Your body should form a straight line from your shoulders to your ankles. \n\n
+                             Step 3:- Squeeze your abs, lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible. \n\n
+                             Step 4:- Return to the starting position and repeat the movement with your opposite leg.. </string>
+    <string name="pose2">    Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base ofyour head and elbows pointed out. Using your abdominals bring your head and shoulders off the mat and come up into a crunch, then lower with control. </string>
+    <string name="pose3">    Step 1:- This movement is performed with a bench and a foot stool.\n\n
+                             Step 2:- Place a bench behind yourself and rest on it with your hands. Place your legs straight out in front of you. You may also place them at an elevated level as shown above.\n\n
+                             Step 3:- Begin with arms in a fully. Slowly bend at your elbows keeping the rest of your body straight. Be sure to keep your elbows back and close together.\n\n
+                             Step 4:- Dip down until your arms form a 90 degree angle and you feel a stretch in the triceps.\n\n
+                             Step 5:- Slowly extend your arms raising your body back up. Pause and contract your triceps muscles at the top. Pause and repeat the movement.</string>
+    <string name="pose4">    Step 1:- Lie flat on the floor with your lower back pressed to the ground (pull your navel in to also target your deep abs). \n\n
+                             Step 2:- Put your hands behind your head, then bring your knees in towards your Chest and lift your shoulder blades off the ground, but be sure not to pull on your neck.\n\n
+                             Step 3:-Straighten your right leg out to about a 4S-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee.\n\n
+                             Step 4:- Make sure your rib cage is moving and hotjust your elbows. Now switch sides and do the same motion on the other side to complete onerep. </string>
+    <string name="pose5">   Step 1:- Lay down with your hands to your sides for support. \n\n
+                             Step 2:- Raise your legs so they are off the ground, keeping the abdominals tight.\n\n
+                             Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                            </string>
+
+
+    <string name="pose6">    Step 1:- Lie on your back on an exercise mat. With your arms straight at your sides, bend your knees and place your feet flat on the floor between18 and 24 inches apart.\n\n
+                             Step 2:- Breathing out, crunch your ab slightly upward and sideways to the right a couple of inches until your right hand touches your right heel.\n\n
+                             Step 3:- Hold brief|y and then return to your starting position while inhaling. Repeat on the left side. </string>
+    <string name="pose7">    Step 1:- You can perform straight-leg crunches by lying face up on the floor with your legs straight and then moving your upper body as you would for a standard bent-knee crunch.\n\n
+                             Step 2:- Alternatively, lie on your back, raise your legs so they are perpendicular to the floor and then perform the standard crunching motion with your torso.
+                             </string>
+    <string name="pose8">    Step 1:- Lie down on the floor placing your feet either under something that Will not move or by having a partner hold them. Your legs should be bent at the kneesPlace your hands behind your head and lock them together by claspihg your fingers. This is the starting position.\n\n
+                             Step 2:- Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.\n\n
+                             Step 3:- Once you feel the contraction for a second, lower your upper body back down to the starting position while inhahng. \n\n
+                             Step 4:- Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose9">    Step 1:- Lying on the back,lift stright leg,extend opposite hand to touch toe. \n\n
+                             Step 2:- Please,return,alternate inhale down,exhale up at toe touch.
+                            </string>
+    <string name="pose10">    Step 1:- High Plank position then slowly rotate your torso to the side raising your arm till it gets ihlihe with the other one. \n\n
+                             Step 2:- Then return to the initial position.
+                            </string>
+    <string name="pose11">    Step 1:- Lie on the floor with elbows directly beneath your shoulders and legs fully extended.\n\n
+                             Step 2:- Raise your torso into the air until it makes a straight line from your shoulders to your ankles. Tighten your stomach, squeeze your butt.
+                            </string>
+    <string name="pose12">    Step 1:- Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees. Elevate your upper body so that it creates an imaginary V-shape with your thighs. \n\n
+                             Step 2:- Your arms should be fully extended in front of you perpendicular to your torso and with the hands clasped. This is the starting position.\n\n
+                             Step 3:- This is the starting position. Twist your torso to the right side until your arms are parallel with the floor while breathing out. \n\n
+                             Step 4:- Hold the contraction for a second and move back to the starting position while breathing out. Now move to the opposite side performing the same techniques you applied to the right side. Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose13">    Step 1:- Lie on your back with your knees bent, feet flat and hip width. \n\n
+                             Step 2:- Lower your pelvis 2 inches from the floor. Squeeze your glutes and lift your pelvis back to bridge position.
+
+                            </string>
+    <string name="pose14">    Step 1:- Lie facedown on the floor with your arms extended in front of you and your leg extended behind you. \n\n
+                             Step 2:- In one movement,engage your glutes and lower back to raise your arms,legs,and chest off the floor.\n\n
+                             Step 3:- Hold for a count,then slowly return to the starting position.
+                            </string>
+    <string name="pose15">   Step 1:- Stand, extend arms 90° to sides, bend forward 90° at waist.\n\n
+                             Step 2:- Looking at the floor, rotate torso to touch hand to foot, rotate for other hand. \n\n
+                             Step 3:- Head will follow chest action. </string>
+
+    <string name="day_1">
+        <br>Breakfast (8:00-8:30AM):3 onion stuffed parantha + 1 cup curd + 3 cashews + 4 almonds + 2 walnuts \n</br>
+        <br>Mid-Meal (11:00-11:30AM):1 cup mango shake \n</br>
+        <br>Lunch (2:00-2:30PM):1 cup moong dal/ chicken curry + 1 cup potato and caulifllower vegetable + 3 chapatti + 1/2 cup rice + salad \n</br>
+         <br> Evening (4:00-4:30PM):1 cup pomegranate juice + 2 butter toasted bread \n</br>
+         <br>Dinner (8:00-8:30PM):1 cup beans potato vegetable + 3 chapatti + salad \n</br>
+    </string>
+    <string name="day_2">
+        <br>Breakfast (8:00-8:30AM):3 paneer stuffed besan cheela + green chutney + 1 cup curd + 3 cashews + 4 almonds + 2 walnuts \n</br>
+        <br> Mid-Meal (11:00-11:30AM):1 apple smoothie with maple syrup \n</br>
+        <br> Lunch (2:00-2:30PM):1 cup masoor dal + 1 cup calocasia + 3 chapatti + 1/2 cup rice + 1 cup low curd + salad \n</br>
+        <br>Evening (4:00-4:30PM):1 cup tomato soup with bread crumbs + 1 cup aloo chaat \n</br>
+        <br> Dinner (8:00-8:30PM):1 cup carrot peas vegetable +3 chapatti + salad \n</br>
+
+
+
+    </string>
+    <string name="day_3">
+        <br>Breakfast (8:00-8:30AM):1.5 cup vegetable bread upma + 1 cup milk + 3 cashews + 4 almonds + 2 walnuts \n</br>
+        <br> Mid-Meal (11:00-11:30AM):1 cup ripe banana with 2 tsp ghee \n</br>
+        <br> Lunch (2:00-2:30PM):1 cup rajma curry + 1 cup spinach potato + 3 chapatti + 1/2 cup rice + salad \n</br>
+        <br>Evening (4:00-4:30PM):1 cup vegetable juice + 1 cup upma \n</br>
+        <br>Dinner (8:00-8:30PM):1.5 cup parwal vegetable + 3 chapatti + salad \n</br>
+
+
+
+    </string>
+    <string name="day_4">
+        <br>Breakfast (8:00-8:30AM):2 cucmber potato sandwich + 1 tsp green chutney + 1 orange juice + 3 cshews + 2 walnuts + 4 almonds \n</br>
+        <br>Mid-Meal (11:00-11:30AM):1 cup buttermilk + 1 cup sweet potato chaat \n</br>
+        <br>Lunch (2:00-2:30PM):1 cup white chana/ fish curry + 3 chapatti + 1/2 cup rice + salad \n</br>
+        <br>Evening (4:00-4:30PM):1 cup almond milk + banana \n</br>
+        <br>Dinner (8:00-8:30PM):1 cup cauliflower potato vegetable + 3 chapatti + salad \n</br>
+
+
+    </string>
+    <string name="day_5">
+        <br>Breakfast (8:00-8:30AM):2 cup vegetable poha + 1 cup curd + 3 cashews + 4 almonds + 2 walnuts \n</br>
+        <br>Mid-Meal (11:00-11:30AM):2 cups watermelon juice\n</br>
+        <br>Lunch (2:00-2:30PM):1 cup chana dal + 1 cup bhindi vegetable + 3 chapatti + 1/2 cup rice + salad \n</br>
+        <br>Evening (4:00-4:30PM):1 cup sprouts salad + 2 potato cheela + green chutney \n</br>
+        <br>Dinner (8:00-8:30PM):1 cup peas mushroom vegetable + 3 chapatti + salad \n</br>
+
+
+
+
+    </string>
+    <string name="day_6">
+        <br>Breakfast (8:00-8:30AM):3 vegetable suji cheela + 1 cup strawberry shake + 4 cashews + 4 almonds + 3 walnuts \n</br>
+        <br>Mid-Meal (11:00-11:30AM):1 cup coconut water + 1 cup pomegrate \n</br>
+        <br> Lunch (2:00-2:30PM):1 cup mix dal + 1 cup soybean curry + 3 chapatti + 1/2 cup curd + salad \n</br>
+        <br>Evening (4:00-4:30PM):1 cup fruit salad + 4 pc vegetable cutlets + green chutney \n</br>
+        <br>Dinner (8:00-8:30PM):1 cup karela vegetable + 3 chaptti + salad \n</br>
+
+
+
+    </string>
+    <string name="day_7">
+    <br>Breakfast (8:00-8:30AM):2 egg brown bread sandwich + green chutney + 1 cup milk + 3 cashews + 4 almonds + 2 walnuts \n</br>
+    <br>Mid-Meal (11:00-11:30AM):1 cup banana shake \n</br>
+    <br> Lunch (2:00-2:30PM):1 cup arhar dal + 1 cup potato curry + 3 chapatti + 1/2 cup rice + 1/2 cup low fat curd + salad \n</br>
+    <br>Evening (4:00-4:30PM):1 cup strawberry smoothie + 1 cup vegetable poha \n</br>
+    <br>Dinner (8:00-8:30PM):1.5 cup chicken curry + 3 chapatti + salad \n</br>
+    </string>
+
+</resources>

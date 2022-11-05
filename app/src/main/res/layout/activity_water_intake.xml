@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".WaterIntakeActivity">
+
+    <RelativeLayout
+        android:id="@+id/banner"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/water_banner_1212">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <com.github.lzyzsd.circleprogress.DonutProgress
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/donut_progress"
+                app:donut_progress="0"
+                android:layout_marginBottom="40dp"/>
+            <com.github.lzyzsd.circleprogress.CircleProgress
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/circle_progress"
+                app:circle_progress="0"
+                android:layout_marginBottom="40dp"/>
+            <com.github.lzyzsd.circleprogress.ArcProgress
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="#81B2EA"
+                android:id="@+id/arc_progress"
+                app:arc_bottom_text="Water Intake"
+                app:arc_text_color="@color/purple_500"
+                app:arc_progress="0"
+                android:layout_marginBottom="40dp"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="100ml"
+                    android:id="@+id/up100"
+                    android:layout_marginRight="10dp"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="50ml"
+                    android:id="@+id/up50"
+                    android:layout_marginRight="10dp"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="250ml"
+                    android:id="@+id/up250"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="500ml"
+                    android:id="@+id/up500"
+                    android:layout_marginRight="10dp"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="750ml"
+                    android:id="@+id/up750"
+                    android:layout_marginRight="10dp"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1000ml"
+                    android:id="@+id/up1000"/>
+
+            </LinearLayout>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="decrease"
+                android:id="@+id/decrease"/>
+
+            <Button
+                android:id="@+id/reminder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Water Intake: Set Reminder for 1 Hour" />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>
